@@ -120,7 +120,7 @@ Kick Mode Quit
 Kick toggle false
 KillAura MaxCPS 22
 KillAura MinCPS 8
-KillAura Range 3.10
+KillAura Range 3.15
 KillAura ThroughWallsRange 0.0
 KillAura RangeSprintReducement 0.0
 KillAura Priority Distance
@@ -128,7 +128,7 @@ KillAura TargetMode Single
 KillAura SwitchDelay 101
 KillAura Swing true
 KillAura KeepSprint false
-KillAura AutoBlock Off
+KillAura AutoBlock AfterTick
 KillAura BlockingDelayAfterAttack 20
 KillAura InteractAutoBlock true
 KillAura BlockRate 100
@@ -138,8 +138,8 @@ KillAura LivingRayCast false
 KillAura AAC false
 KillAura ResetRotationsSensitivity 0.25
 KillAura ResetRotationDelay 400
-KillAura MaxTurnSpeed 30.0
-KillAura MinTurnSpeed 20.0
+KillAura MaxTurnSpeed 40.0
+KillAura MinTurnSpeed 30.0
 KillAura SilentRotation true
 KillAura Strafe Strict
 KillAura RandomCenter false
