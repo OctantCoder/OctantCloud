@@ -128,7 +128,7 @@ KillAura TargetMode Single
 KillAura SwitchDelay 101
 KillAura Swing true
 KillAura KeepSprint false
-KillAura AutoBlock AfterTick
+KillAura AutoBlock Off
 KillAura BlockingDelayAfterAttack 20
 KillAura InteractAutoBlock true
 KillAura BlockRate 100
@@ -210,15 +210,13 @@ Scaffold MaxEagleEdgeDistance 0.15
 Scaffold MinEagleEdgeDistance 0.1
 Scaffold ExpandLength 1
 Scaffold Strafe AAC
-Scaffold Rotations Normal
-Scaffold StaticYaw 0.0
 Scaffold SilentRotation true
 Scaffold KeepRotation true
 Scaffold KeepRotationLength 0
 Scaffold XYZSearch Auto
 Scaffold xzRange 0.0
 Scaffold yRange 0.0
-Scaffold MinDist 0.1
+Scaffold MinDist 0.20
 Scaffold SearchAccuracy 16
 Scaffold MaxTurnSpeed 15.00
 Scaffold MinTurnSpeed 10.00
